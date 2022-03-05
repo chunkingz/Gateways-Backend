@@ -35,6 +35,7 @@ npm i
 Type `npm start` for a normal prodcution server or `npm run dev` for a dev server. 
 <br>
 To interact with the Endpoints directly, Open Postman and use the GET verb to `http://localhost:5000/gateways`
+
 ---
 <br>
 
