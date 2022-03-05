@@ -11,6 +11,17 @@ The service must also offer an operation for displaying information about all st
 ---
 <br>
 
+# Urls (Live Hosting) :whale:
+
+:gem: This app is hosted on Heroku [here](https://musala-gateways.herokuapp.com/)
+
+:fire: Firebase coming soon...
+
+:octocat: Github Pages coming soon...
+
+---
+<br>
+
 ## How to use :bulb:
 
 Clone the repo by typing the command below into your terminal.
@@ -30,21 +41,21 @@ npm i
 ---
 <br>
 
-## Development server :sparkles:
+## Frontend
 
-Type `npm start` for a normal prodcution server or `npm run dev` for a dev server. 
-<br>
-To interact with the Endpoints directly, Open Postman and use the GET verb to `http://localhost:5000/gateways`
+Clone the frontend using the below command
+```
+git clone https://github.com/chunkingz/Gateways-Frontend.git
+```
 
 ---
 <br>
 
-## Frontend
+## Development server :sparkles:
 
-To develop locally, clone the frontend using the below command
-```
-git clone https://github.com/chunkingz/Gateways-Frontend.git
-```
+Type `npm start` for a normal prodcution server or `npm run dev` for a dev server. 
+
+To interact with the Endpoints directly, Open Postman and use the GET verb to `http://localhost:5000/gateways`
 
 ---
 
