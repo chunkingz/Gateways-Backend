@@ -57,7 +57,7 @@ npm i
 ---
 <br>
 
-## Automated Build for Development server :zap:
+## Automated Build for Development server (in the backend directory) :zap:
 
 For an automated build, run the script below for Gulp and Webpack. 
 
