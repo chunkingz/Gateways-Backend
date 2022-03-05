@@ -1,4 +1,4 @@
-# Gateways (Musala Soft Fullstack Developer Assessment)
+# Gateways Backend (Musala Soft Fullstack Developer Assessment)
 
 This sample project is about managing gateways - master devices that control multiple peripheral devices.
 
@@ -27,24 +27,23 @@ cd Gateways-Backend
 npm i
 ``` 
 
-
 ---
 <br>
 
 ## Development server :sparkles:
 
-Type `npm run dev` for a dev server. Open Postman and nav using the POST verb to `http://localhost:5000/`
-
+Type `npm start` for a normal prodcution server or `npm run dev` for a dev server. 
+<br>
+To interact with the Endpoints directly, Open Postman and use the GET verb to `http://localhost:5000/gateways`
 ---
 <br>
 
+## Frontend
 
-## Screenshots :camera_flash:
-
+To develop locally, clone the frontend using the below command
 ```
-cd screenshots/
-``` 
-
+git clone https://github.com/chunkingz/Gateways-Frontend.git
+```
 
 ---
 
