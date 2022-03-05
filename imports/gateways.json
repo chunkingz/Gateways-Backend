@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "621b0013ad5ce0f8daab1073"
+  },
+  "serialNumber": "213c9740-d6b5-4bc0-826f-f1a71c2cb406",
+  "deviceName": "Cisco",
+  "ipv4": "127.0.0.1",
+  "peripheralDevices": [
+    {
+      "dateCreated": "27/02/2022, 05:37:04",
+      "UID": "244a3392-605e-4045-8cd6-23ed31f7ae76",
+      "vendor": "Alvarion",
+      "status": "online"
+    },
+    {
+      "UID": "9ad69ad9-2614-4ee1-b2db-f47ec4baa9e1",
+      "vendor": "GLO",
+      "dateCreated": "04/03/2022, 22:56:50",
+      "status": "offline"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621b00c2ad5ce0f8daab1075"
+  },
+  "serialNumber": "b36e5c5e-bfa6-4b9b-96a0-4eec57c6e796",
+  "deviceName": "VMware",
+  "ipv4": "192.168.0.1",
+  "peripheralDevices": [
+    {
+      "dateCreated": "27/02/2022, 05:37:04",
+      "UID": "244a3392-605e-4045-8cd6-23ed31f7ae11",
+      "vendor": "Solar winds",
+      "status": "online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621b015dad5ce0f8daab1077"
+  },
+  "serialNumber": "244a3392-605e-4045-8cd6-23ed31f7ae76",
+  "deviceName": "Blue Stacks",
+  "ipv4": "72.21.15.15",
+  "peripheralDevices": [
+    {
+      "dateCreated": "27/02/2022, 05:41:18",
+      "UID": "9519f98e-10b8-4e52-ac08-e7538256a3ca",
+      "vendor": "Net",
+      "status": "offline"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621b0209ad5ce0f8daab1079"
+  },
+  "serialNumber": "7fd46aae-9d89-4a21-9c57-45a47377b161",
+  "deviceName": "D-Link",
+  "ipv4": "169.121.2.3",
+  "peripheralDevices": [
+    {
+      "dateCreated": "27/02/2022, 05:43:57",
+      "UID": "b38642c0-7474-4d50-b731-20766ef4beb1",
+      "vendor": "Alvarion",
+      "status": "online"
+    },
+    {
+      "dateCreated": "27/02/2022, 05:43:57",
+      "UID": "123c591c-08d0-423f-894d-3a5e22e15fd5",
+      "vendor": "Netflix",
+      "status": "offline"
+    },
+    {
+      "dateCreated": "27/02/2022, 05:43:57",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621c92630e22c3259a69d8d4"
+  },
+  "serialNumber": "12",
+  "deviceName": "12",
+  "ipv4": "127.0.0.1",
+  "peripheralDevices": [
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "244a3392-605e-4045-8cd6-23ed31f7ae76",
+      "vendor": "Alvarion",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "123c591c-08d0-423f-894d-3a5e22e15fd5",
+      "vendor": "Netflix",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    },
+    {
+      "dateCreated": "28/02/2022, 10:11:36",
+      "UID": "c8b6f7cb-73fb-4a6b-9945-6c10e6848acf",
+      "vendor": "MTN",
+      "status": "online"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622287994821caadd5a1f4df"
+  },
+  "serialNumber": "test-serial",
+  "deviceName": "Amazon",
+  "ipv4": "127.0.0.1",
+  "peripheralDevices": [
+    {
+      "dateCreated": "04/03/2022, 22:41:11",
+      "UID": "244a3392-605e-4045-8cd6-23ed31f7ae76",
+      "vendor": "Alvarion",
+      "status": "online"
+    },
+    {
+      "UID": "uid1",
+      "vendor": "vendor1",
+      "dateCreated": "04/03/2022, 22:42:09",
+      "status": "online"
+    },
+    {
+      "UID": "uid2",
+      "vendor": "vendor1",
+      "dateCreated": "04/03/2022, 22:44:18",
+      "status": "online"
+    },
+    {
+      "UID": "9ad69ad9-2614-4ee1-b2db-f47ec4baa9e1",
+      "vendor": "Etisalat",
+      "dateCreated": "04/03/2022, 23:18:31",
+      "status": "offline"
+    },
+    {
+      "UID": "9ad69ad9-2614-4ee1-b2db-9ad69ad9e",
+      "vendor": "MTN",
+      "dateCreated": "04/03/2022, 23:46:29",
+      "status": "online"
+    }
+  ],
+  "__v": 0
+}]
