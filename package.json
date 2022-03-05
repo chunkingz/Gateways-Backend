@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon index",
     "start": "node index",
+    "dev-build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -19,7 +20,15 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "del": "^6.0.0",
+    "fancy-log": "^2.0.0",
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.1.0",
+    "nodemon": "^2.0.15",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4",
+    "webpack-stream": "^7.0.0"
   },
   "repository": {
     "type": "git",
