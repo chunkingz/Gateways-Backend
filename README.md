@@ -11,7 +11,23 @@ The service must also offer an operation for displaying information about all st
 ---
 <br>
 
-# Urls (Live Hosting) :whale:
+## Technologies used :dart:
+
+For this project I used the MEAN stack:
+
+:green_circle: [MongoDB](https://www.mongodb.com/)
+
+:purple_circle: [Expressjs](https://expressjs.com/)
+
+:red_circle: [Angular](https://angular.io/)
+
+:yellow_circle: [Nodejs](https://nodejs.org/en/)
+
+
+---
+<br>
+
+# Urls (Live Hosting) :link:
 
 :gem: This app is hosted on Heroku [here](https://musala-gateways.herokuapp.com/)
 
@@ -19,10 +35,24 @@ The service must also offer an operation for displaying information about all st
 
 :octocat: Github Pages coming soon...
 
+
 ---
 <br>
 
-## How to use :bulb:
+# Docker :whale:
+
+You may install and test out this project using docker via the command.
+
+```
+docker run -dp 5000:5000 chunkingz/gateways
+```
+
+If you do not have docker installed locally, you can also test it out on [Play with Docker](https://labs.play-with-docker.com/)
+
+---
+<br>
+
+## How to install and test locally :bulb:
 
 Run the following commands in a *split* terminal.
 
@@ -108,6 +138,15 @@ To interact with the Endpoints directly, Open Postman and use the following
     status: EnumType,
 }
 ```
+---
+<br>
+
+## DB Config :file_cabinet:
+
+**Optionally**, you may import my dummy DB values into the `gateways` collection, in mongodb compass/atlas
+
+The file is located in `<backend dir>/imports/gateways.json`
+
 
 ---
 
